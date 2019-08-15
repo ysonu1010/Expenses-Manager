@@ -17,4 +17,4 @@
 * Run file C file in Turbo C.
 * Requires password to access. Password is in the code.`
 
-Kindly report bugs(if any) at y_sonu@iitg.ac.in
+For any bug identified or improvements, mail at y_sonu@iitg.ac.in
